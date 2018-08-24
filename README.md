@@ -12,3 +12,7 @@ Choose the correct answer
 2) Add console.log statements to the function.
 3) Add a debugger statement at the beginning of the function and open the developer tools.
 4) Add console.table statements to the function.
+
+
+
+answer is 3
